@@ -1,0 +1,15 @@
+file_format: "1"
+id: athena
+name: Athena
+type: board
+arch: arm
+url: https://github.com/Shiva1796/athena-zmk
+requires: [athena]
+features:
+  - keys
+  - underglow
+  - encoders
+  - studio
+outputs:
+  - usb
+  - ble

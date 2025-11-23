@@ -1,0 +1,8 @@
+// key_physical_attrs.dtsi
+// Physical key attributes definition for Athena keyboard
+
+/ {
+    key_physical_attrs: key_physical_attrs {
+        compatible = "zmk,key-physical-attrs";
+    };
+};
